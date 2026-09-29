@@ -1,9 +1,19 @@
 
-Fernerkundung in der Landschaftsplanung - Tag 3 - Prozessierung von Landsatdaten in R
+OEKB100356 - Einführung in die Fernerkundung - Tag 2 - Prozessierung von Landsatdaten in R
 
 **Autoren:** Dieses Tutorial wurde von Fabian Fassnacht entwickelt.
 
-## Grundlegende Prozessierung von Landsat-Daten with R ##
+## Grundlegende Prozessierung von Landsat-Daten mit R ##
+
+In diesem Tutorial werden wir in der Programmierumgebung R arbeiten und dafür den Editor RStudio verwenden. Falls das Tutorial am eigenen Rechner bearbeitet wird, ist es notwendig zuerst R und danach RStudio zu installieren. Man kann R hier herunterladen:
+
+https://cran.r-project.org/bin/windows/base/
+
+Nach dem erfolgreichen Download, die Datei doppelklicken und die Installation durchführen. Nach der erfolgreichen Installation empfiehlt es sich auch noch RStudio zu installieren, welches man hier findet:
+
+https://posit.co/downloads
+
+Hier bitte auf "Download RStudio" klicken. Die kostenlose Variante ist völlig ausreichend. Falls es bei der Installation zu Problemen kommen sollte, helfen wir während der Tutorienszeiten gerne weiter.
 
 
 ### Lernziele und Überblick ###
