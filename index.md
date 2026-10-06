@@ -5,11 +5,11 @@ OEKB100356 - Einführung in die Fernerkundung - Tag 2 - Prozessierung von Landsa
 
 ## Grundlegende Prozessierung von Landsat-Daten mit R ##
 
-In diesem Tutorial werden wir in der Programmierumgebung R arbeiten und dafür den Editor RStudio verwenden. Falls das Tutorial am eigenen Rechner bearbeitet wird, ist es notwendig zuerst R und danach RStudio zu installieren. Man kann R hier herunterladen:
+In diesem Tutorial werden wir in der Programmierumgebung R arbeiten und dafür den Editor RStudio verwenden. Falls das Tutorial am eigenen Rechner bearbeitet wird, ist es notwendig zuerst R und danach RStudio zu installieren. Man kann R für Windows hier herunterladen:
 
 https://cran.r-project.org/bin/windows/base/
 
-Nach dem erfolgreichen Download, die Datei doppelklicken und die Installation durchführen. Nach der erfolgreichen Installation empfiehlt es sich auch noch RStudio zu installieren, welches man hier findet:
+Nach dem erfolgreichen Download, die Datei doppelklicken und die Installation durchführen. Solltet ihr mit einem anderen Betriebssystem arbeiten, findet ihr auch Versionen für Linux und MacOS hier: https://cran.r-project.org/Nach der erfolgreichen Installation empfiehlt es sich auch noch RStudio zu installieren, welches man hier findet:
 
 https://posit.co/downloads
 
