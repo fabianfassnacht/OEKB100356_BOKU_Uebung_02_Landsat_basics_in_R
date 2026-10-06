@@ -61,16 +61,17 @@ Wir starten nun das Programm R-Studio indem wir im Startmenü von windows "Rstud
 
 **Abbildung 3: Starten von R-Studio**
 
-An diesem Punkt gehe ich davon aus, dass Sie die Hausaufgabe von letzter Woche in Form des Tutorials auf dieser Webseite: 
-
-https://rspatial.org/intr/2-basic-data-types.html
-
-durchgearbeitet haben. Sollten Sie dies nicht getan haben, würde ich raten dies nun zuerst zu tun, um den nachfolgenden Schritten gut folgen zu können. Es wird im Folgenden vorausgesetzt, dass Sie wissen, wie man Code in R-Studio ausführt und Sie ein Grundverständnis dafür besitzen was Variablen sind und wie man mit diesen in R umgehen kann. Sollten Sie nicht wissen wie man Code in R ausführt oder hätten gerne allgemein eine etwas ausführlichere Einführung in R und/oder RStudio so empfehlen sich folgende Online-Tutorials:
+Es wird im Folgenden vorausgesetzt, dass Sie wissen, wie man Code in R-Studio ausführt und Sie ein Grundverständnis dafür besitzen was Variablen sind und wie man mit diesen in R umgehen kann. Sollten Sie nicht wissen wie man Code in R ausführt oder hätten gerne allgemein eine etwas ausführlichere Einführung in R und/oder RStudio so empfehlen sich folgende Online-Tutorials (es sind z.T. konkrete Themen/Sub-Seiten verlinkt, aber es finden sich auch allgemein sehr viele wertvolle Informationen auf diesen Portalen). Es lohnt sich am Anfang etwas Zeit zu investieren und die Basic-Tutorials wirklich Schritt für Schritt durchzugehen und nicht direkt mit ChatGPT & Co zu agieren:
 
 https://docs.posit.co/ide/user/ide/guide/ui/ui-panes.html
+
 https://docs.posit.co/ide/user/ide/guide/code/execution.html
 
 https://rspatial.org/intr/index.html
+
+und insbesondere auch:
+
+https://rspatial.org/intr/2-basic-data-types.html
 
 
 **Wichtige allgemeine Tipps zum Arbeiten mit R**
