@@ -65,7 +65,13 @@ An diesem Punkt gehe ich davon aus, dass Sie die Hausaufgabe von letzter Woche i
 
 https://rspatial.org/intr/2-basic-data-types.html
 
-durchgearbeitet haben. Sollten Sie dies nicht getan haben, würde ich raten dies nun zuerst zu tun, um den nachfolgenden Schritten gut folgen zu können. Es wird im Folgenden vorausgesetzt, dass Sie wissen, wie man Code in R-Studio ausführt und Sie ein Grundverständnis dafür besitzen was Variablen sind und wie man mit diesen in R umgehen kann.
+durchgearbeitet haben. Sollten Sie dies nicht getan haben, würde ich raten dies nun zuerst zu tun, um den nachfolgenden Schritten gut folgen zu können. Es wird im Folgenden vorausgesetzt, dass Sie wissen, wie man Code in R-Studio ausführt und Sie ein Grundverständnis dafür besitzen was Variablen sind und wie man mit diesen in R umgehen kann. Sollten Sie nicht wissen wie man Code in R ausführt oder hätten gerne allgemein eine etwas ausführlichere Einführung in R und/oder RStudio so empfehlen sich folgende Online-Tutorials:
+
+https://docs.posit.co/ide/user/ide/guide/ui/ui-panes.html
+https://docs.posit.co/ide/user/ide/guide/code/execution.html
+
+https://rspatial.org/intr/index.html
+
 
 **Wichtige allgemeine Tipps zum Arbeiten mit R**
 
